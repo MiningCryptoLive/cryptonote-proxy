@@ -1,13 +1,7 @@
-# HeroMiners Proxy Mining Control https://herominers.com
+# MINE-XMR.PRO Proxy Mining Control https://mine-xmr.pro
 cryptonote-proxy
 
 ![switch](https://images2.imgbox.com/07/ce/H4UckRqP_o.png)
-
-Discord Channel: https://discord.gg/gvWSs84
-
-Telegram Channel: https://t.me/HeroMinersPool
-
-Twitter: https://twitter.com/HeroMinerss
 
 
 # Windows Installation Guide
